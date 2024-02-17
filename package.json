@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "pixi.js": "^7.4.0"
+  },
+  "devDependencies": {
+    "@wdio/appium-service": "^8.32.1"
+  }
+}
